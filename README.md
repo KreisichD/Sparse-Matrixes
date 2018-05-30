@@ -2,7 +2,7 @@
 Sparse Matrix Management app  
 
 
-The app was a challenge to be done in the name of learning objective approach to programming and app data management  
+The app was a challenge to be done in the name of learning objective approach to programming and app memory management  
 
 Whole app is decomposed into three layers:  
 
